@@ -1,0 +1,5 @@
+Magellan PreScreening
+
+To build and run unit tests:
+
+gradle clean build
