@@ -1,5 +1,4 @@
-Magellan PreScreening
+Magellan Developer PreScreening Question
 
-To build and run unit tests:
+To build and run unit tests:  gradle clean build
 
-gradle clean build
