@@ -2,3 +2,6 @@ Magellan Developer PreScreening Question
 
 To build and run unit tests:  gradle clean build
 
+Groovy implementation is located at: src/main/groovy/PreScreeningGroovy
+Spock tests are located at: src/test/groovy/PreScreeningGroovySpec
+
